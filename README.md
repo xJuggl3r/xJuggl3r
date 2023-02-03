@@ -16,13 +16,16 @@
 
 ## 📊 My Github Stats
 
-![Ashley's GitHub stats](https://github-readme-stats.vercel.app/api?username=xJuggl3r&show_icons=true&theme=prussian)
+![xJuggl3r's GitHub stats](https://github-readme-stats.vercel.app/api?username=xJuggl3r&show_icons=true&theme=prussian)
 
 ## 📈 My GitHub Contributions
 
-![Ashley's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=xJuggl3r&theme=prussian)
+![xJuggl3r's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=xJuggl3r&theme=prussian)
 
-
+## How I spend my time
+<!--START_SECTION:waka-->
+![xJuggl3r's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xJuggl3r&theme=prussian)
+<!--END_SECTION:waka-->
 
 
 
