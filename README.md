@@ -3,25 +3,25 @@
 
 <br></br>
 
-- 🔭 I’m currently working on **Mapa do Mato**
+- 🔭 I’m currently working on **[Nebulosa @ //15](https://paralelo15filmes.com.br/nebulosa)**
 
-- 🌱 I’m currently learning **Data Analytics**
+- 🌱 I’m currently working with **Data Analytics**
 
-- 👯 I’m looking to collaborate on **a**
+<!-- - 👯 I’m looking to collaborate on **a**
 
-- 🤝 I’m looking for help with **a**
+- 🤝 I’m looking for help with **a** 
 
 - 👨‍💻 All of my projects are available at [Arkhad](a#)
 
-<!-- - 📝 I regularly write articles on [a](#) -->
+- 📝 I regularly write articles on [a](#) 
 
-- 💬 Ask me about **#**
+- 💬 Ask me about **#** -->
 
-- 📫 How to reach me **#**
+- 📫 How to reach me on **[Linkedin](http://linkedin.com/in/ashtorres)**
 
-- 📄 Know about my experiences [a](#)
+- 📄 Know about my experiences **[here](https://profile.codersrank.io/user/xjuggl3r/)**
 
-- ⚡ Fun fact **#**
+- ⚡ Fun fact: **For more than one year, my wife 👩, my dog 🐕 and myself 👨 overlanded South America, from Brazil to Ushuaia to Colombia and then to Brazil again 🚘**
 <br></br>
 
 <h3 align="left">Connect with me:</h3>
