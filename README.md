@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andre</h1>
-<h3 align="center">A Python/Django cloud-oriented developer</h3>
+<h3 align="center">A ⭐Yellow Harmonic Star⭐</h3>
 
 <br></br>
 
