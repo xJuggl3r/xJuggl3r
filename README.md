@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences **[here](https://profile.codersrank.io/user/xjuggl3r/)**
 
-- ⚡ Fun fact: **For more than one year, my wife 👩, my dog 🐕 and myself 👨 overlanded South America, from Brazil to Ushuaia to Colombia and then to Brazil again 🚘**
+- ⚡ Fun fact: **For a couple years, my wife 👩, my dog 🐕 and myself 👨 overlanded South America, from Brazil to Ushuaia to Colombia and then to Brazil again 🚘**
 <br></br>
 
 <h3 align="left">Connect with me:</h3>
